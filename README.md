@@ -3,9 +3,9 @@ LightBnB is an app that revolutionizes the travel industry. It allows home owner
 
 It's time to start working on the LightBnB app. Before we start doing anything technical, we're going to design the database. This is a multi billion dollar idea, so we want to get the database right, the first time.
 
-ERD REQUIREMENTS
+ERD Requirements
 ----------------
-Create an ERD for our LightBnB app with the following specifications:
+Create an Entity Relationship Design for our LightBnB app with the following specifications:
 
 *   The app will have `users`, `properties`, `reservations`, and `property reviews`.
     
@@ -39,6 +39,6 @@ Create an ERD for our LightBnB app with the following specifications:
     
 *   A `property` can be reviewed by many `guests`
     
-Entitiy Relationship Design
+Entity Relationship Design
 ---------------------------
 ![ERD](https://github.com/MattSeligman/LightBnB/blob/main/docs/LightBnB-ERD.jpg?raw=true)
