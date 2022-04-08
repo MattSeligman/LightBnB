@@ -1,0 +1,27 @@
+{
+  "name": "LightBnB",
+  "version": "1.0.0",
+  "description": "LightBnB is an app that revolutionizes the travel industry. It allows home owners to rent out their homes to people on vacation, creating an alternative to hotels and B&amp;Bs.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattSeligman/LightBnB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattSeligman/LightBnB/issues"
+  },
+  "homepage": "https://github.com/MattSeligman/LightBnB#readme"
+}
